@@ -18,9 +18,17 @@ It demonstrates database creation, CSV data import, and SQL queries for real-wor
 - Each **Book** can appear in multiple **Orders**
 
 ---
+---
 
-##  Data Import
-Data imported using the PostgreSQL `COPY` command:
+### 📂 CSV Data Files
+The dataset used in this project can be found in the repository:
+
+- [Books.csv](./Books.csv)
+- [Customers.csv](./Customers.csv)
+- [Orders.csv](./Orders.csv)
+
+Each file can be directly imported into PostgreSQL using the `COPY` command.
+
 
 ```sql
 COPY Books(Book_ID, Title, Author, Genre, Published_Year, Price, Stock)
