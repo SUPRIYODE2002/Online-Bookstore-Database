@@ -19,7 +19,7 @@ It demonstrates database creation, CSV data import, and SQL queries for real-wor
 
 ---
 
-Database ER Diagram
+## Database ER Diagram
 
 ![Database ER Diagram](database_schema.png)
 
