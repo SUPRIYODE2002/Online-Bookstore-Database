@@ -21,7 +21,7 @@ It demonstrates database creation, CSV data import, and SQL queries for real-wor
 
 Database ER Diagram
 
-![Database ER Diagram](er_diagram.png)
+![Database ER Diagram](database_schema.png)
 
 This ER diagram shows how Books, Customers, and Orders tables are related in the Online Bookstore Database. Each order connects a customer with a book, recording purchase details.
 ---
