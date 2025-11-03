@@ -18,6 +18,12 @@ It demonstrates database creation, CSV data import, and SQL queries for real-wor
 - Each **Book** can appear in multiple **Orders**
 
 ---
+
+Database ER Diagram
+
+![Database ER Diagram](er_diagram.png)
+
+This ER diagram shows how Books, Customers, and Orders tables are related in the Online Bookstore Database. Each order connects a customer with a book, recording purchase details.
 ---
 
 ### 📂 CSV Data Files
